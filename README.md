@@ -40,8 +40,3 @@ Built a PVC quotation and order-management backend, developed Flutter features, 
 ## Research
 
 *Are XAI Explanations Reliable? A Stability Analysis of SHAP and LIME under Data Perturbations in Credit Risk Prediction*, 25th International Istanbul Scientific Research Congress, 2026 (oral presentation, published in proceedings).
-
-## GitHub stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Alemgir&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alemgir&layout=compact&hide_border=true)
