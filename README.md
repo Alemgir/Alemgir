@@ -15,6 +15,7 @@ Computer Engineering graduate (Tokat Gaziosmanpaşa University, 2026) based in T
 | [**Dormitory Management System**](https://github.com/Alemgir/dormitory-management-system) | Registration, rooms, payments and reporting for a ~120-resident dormitory, in daily use | .NET, C#, PostgreSQL |
 | [**PVC Quotation Management**](https://github.com/Alemgir/pvc-quotation-management-system) | Quotation, order and role-based admin system with a dynamic pricing engine | TypeScript, Node.js, PostgreSQL |
 | [**Roasell Ürün Radarı**](https://github.com/Alemgir/roasell-urun-radari) | Trendyol product discovery, scoring and competitor analysis tool | React, Vite, Express, Apify |
+| [**XAI Stability Analysis**](https://github.com/Alemgir/xai-shap-lime-stability) | Stability of SHAP and LIME explanations under data noise across finance, health and education | Python, XGBoost, SHAP, LIME |
 | [**Anime Recommendation System**](https://github.com/Alemgir/anime-recommendation-system) | Personalised recommendations based on user preferences | React |
 
 ## Tech stack
@@ -39,4 +40,4 @@ Built a PVC quotation and order-management backend, developed Flutter features, 
 
 ## Research
 
-*Are XAI Explanations Reliable? A Stability Analysis of SHAP and LIME under Data Perturbations in Credit Risk Prediction*, 25th International Istanbul Scientific Research Congress, 2026 (oral presentation, published in proceedings).
+*Are XAI Explanations Reliable? A Stability Analysis of SHAP and LIME under Data Perturbations in Credit Risk Prediction*, 25th International Istanbul Scientific Research Congress, 2026 (oral presentation, published in proceedings). Code and results: [xai-shap-lime-stability](https://github.com/Alemgir/xai-shap-lime-stability).
